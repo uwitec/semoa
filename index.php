@@ -9,5 +9,5 @@
 	define('ENGINE_NAME','sae');
     // 加载框架入口文件
     require( "./ThinkPHP/ThinkPHP.php");
-    //实例化一个网站应用实例
+    //实例化一个网站应用实例 
 ?>
